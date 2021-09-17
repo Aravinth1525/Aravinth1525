@@ -4,10 +4,10 @@
 
 - 🌱 I’m currently working on Web Development.
 
-# Connect with me<img src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Handshake.gif" height="32px">
+# Connect with me<img src="https://raw.githubusercontent.com/Aravinth1525/Aravinth1525/main/Handshake.gif" height="32px">
 
   <a href="https://www.linkedin.com/in/aravinth-r-356a12194/">
-    <img align="left"  width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" />
+    <img align="left"  width="24px" src="https://raw.githubusercontent.com/Aravinth1525/Aravinth1525/a9bb188d99ab3de48c53e3ed086b2c0fc0fb3aba/Linkedin.svg" />
   </a> &nbsp;&nbsp; 
 <br><br>
 
@@ -22,7 +22,7 @@
 
 
 ### GitHub Stats
-![Aravinth Github Stats](https://github-readme-stats.vercel.app/api?username=Aravinth1525&custom_title=Aravinth%27s%20GitHub%20Stats%20&show_icons=true&theme=ayu-mirage)
+![Aravinth Github Stats]([![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aravinth1525&theme=tokyonight_duo)](https://git.io/streak-stats))
 
 ### GitHub Contributions
 ![Aravinth GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dracula&user=Aravinth1525)
