@@ -6,10 +6,7 @@
 
 # Connect with me<img src="https://raw.githubusercontent.com/Aravinth1525/Aravinth1525/main/Handshake.gif" height="32px">
 
-  <a href="https://www.linkedin.com/in/aravinth-r-356a12194/">
-    <img align="left"  width="24px" src="https://raw.githubusercontent.com/Aravinth1525/Aravinth1525/a9bb188d99ab3de48c53e3ed086b2c0fc0fb3aba/Linkedin.svg" />
-  </a> &nbsp;&nbsp; 
-<br>
+<a href="https://www.linkedin.com/in/aravinth-r-356a12194/"><img align="left"  width="24px" src="https://raw.githubusercontent.com/Aravinth1525/Aravinth1525/a9bb188d99ab3de48c53e3ed086b2c0fc0fb3aba/Linkedin.svg"/></a> &nbsp;&nbsp; 
 
 # Languages
 
