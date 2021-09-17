@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working on Web Development.
 
-# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+# Connect with me<img src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Handshake.gif" height="32px">
 
   <a href="https://www.linkedin.com/in/aravinth-r-356a12194/">
     <img align="left"  width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" />
