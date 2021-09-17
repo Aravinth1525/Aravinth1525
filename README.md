@@ -23,7 +23,7 @@
 
 ### GitHub Stats
 
-![Aravinth's Github Stats](https://github-readme-stats.vercel.app/api?username=hAravinth1525&custom_title=Aravinth%27s%20GitHub%20Stats%20&show_icons=true&theme=ayu-mirage)
+![Aravinth's Github Stats](https://github-readme-stats.vercel.app/api?username=Aravinth1525&custom_title=Aravinth%27s%20GitHub%20Stats%20&show_icons=true&theme=ayu-mirage)
 
 ### GitHub Contributions
 
@@ -32,7 +32,7 @@
 [![Harsh Sharma GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aravinth1525&theme=xcode)](https://github.com/Aravinth1525)
 
 ### Most Used Langauges
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshsharma2210&layout=compact&theme=radical&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aravinth1525&layout=compact&theme=radical&langs_count=8)
  
 <br>
 </p>
