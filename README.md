@@ -18,24 +18,6 @@
 
 </p>
 
-## :trophy: My Github Stats:
-
-
-### GitHub Stats
-![Aravinth Github Stats]([![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aravinth1525&theme=tokyonight_duo)](https://git.io/streak-stats))
-
-### GitHub Contributions
-![Aravinth GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dracula&user=Aravinth1525)
-
-[![Aravinth GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aravinth1525&theme=xcode)](https://github.com/Aravinth1525)
-
-### Most Used Langauges
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aravinth1525&layout=compact&theme=radical&langs_count=8)
- 
-<br>
-</p>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=README.md)
 
 
 
