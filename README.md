@@ -21,6 +21,7 @@
 
 ### GitHub Contributions
 [![Aravinth's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aravinth1525&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
+
 [![Aravinth GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aravinth1525&theme=xcode)](https://github.com/Aravinth1525)
 
 ### Langauges Stats
