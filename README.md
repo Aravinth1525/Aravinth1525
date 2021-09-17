@@ -18,6 +18,25 @@
 
 </p>
 
+## :trophy: My Github Stats:
+
+
+### GitHub Stats
+
+![Aravinth's Github Stats](https://github-readme-stats.vercel.app/api?username=hAravinth1525&custom_title=Aravinth%27s%20GitHub%20Stats%20&show_icons=true&theme=ayu-mirage)
+
+### GitHub Contributions
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aravinth1525&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
+
+[![Harsh Sharma GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aravinth1525&theme=xcode)](https://github.com/Aravinth1525)
+
+### Most Used Langauges
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshsharma2210&layout=compact&theme=radical&langs_count=8)
+ 
+<br>
+</p>
+
 
 
 
