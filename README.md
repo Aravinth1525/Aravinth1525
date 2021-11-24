@@ -1,4 +1,4 @@
-## Hello Humans 👋 I'm Aravinth !
+## Hello All 👋 I'm Aravinth !
 
 ## 🎓 I'm a CSE Student at Vellore Institute of Technology.
 
