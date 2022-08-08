@@ -21,8 +21,10 @@
 
 # 𝔾𝕚𝕥ℍ𝕦𝕓 ℂ𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟𝕤
 <p align="center">
-[![Aravinth's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aravinth1525&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
-  </p>
+    <a href="https://github.com/Aravinth1525/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aravinth's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aravinth1525&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 [![Aravinth GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aravinth1525&theme=xcode)](https://github.com/Aravinth1525)
 
