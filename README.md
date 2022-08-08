@@ -25,8 +25,11 @@
 
 [![Aravinth GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aravinth1525&theme=xcode)](https://github.com/Aravinth1525)
 
-### Langauges Stats
+# 𝕃𝕒𝕟𝕘𝕒𝕦𝕘𝕖𝕤 𝕊𝕥𝕒𝕥𝕤
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aravinth1525&layout=compact&theme=radical&langs_count=8)
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+# 🐍 Snake Contribution Graph
+
