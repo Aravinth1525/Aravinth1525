@@ -20,11 +20,8 @@
 ![Aravinth's Github Stats](https://github-readme-stats.vercel.app/api?username=Aravinth1525&custom_title=Aravinth%27s%20GitHub%20Stats%20&show_icons=true&theme=ayu-mirage)
 
 # 𝔾𝕚𝕥ℍ𝕦𝕓 ℂ𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟𝕤
-<p align="center">
-    <a >
-    [![Aravinth's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aravinth1525&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
-    </a>
-</p>
+
+[![Aravinth's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aravinth1525&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
 
 [![Aravinth GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aravinth1525&theme=xcode)](https://github.com/Aravinth1525)
 
