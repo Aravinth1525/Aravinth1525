@@ -1,6 +1,6 @@
 # ℍ𝕖𝕝𝕝𝕠 𝕎𝕠𝕣𝕝𝕕 👋 I'm Aravinth !
 
-🎓 Budding Computer Science Engineer from VIT, Vellore
+🎓 I have moderate Technical and Programming skills and an academic background in Computer Science and Engineering.
 
 # ℂ𝕠𝕟𝕟𝕖𝕔𝕥 𝕨𝕚𝕥𝕙 𝕞𝕖
 
