@@ -1,8 +1,8 @@
-## Hello World 👋 I'm Aravinth !
+# ░H░e░l░l░o░ ░W░o░r░l░d░ 👋 I'm Aravinth !
 
 ## 🎓 Budding Computer Science Engineer from VIT, Vellore
 
-## Connect with me
+# Connect with me
 
 <p align="left">
 
@@ -19,7 +19,7 @@
 
 ![Aravinth's Github Stats](https://github-readme-stats.vercel.app/api?username=Aravinth1525&custom_title=Aravinth%27s%20GitHub%20Stats%20&show_icons=true&theme=ayu-mirage)
 
-# GitHub Contributions
+# 𝔾𝕚𝕥ℍ𝕦𝕓 ℂ𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟𝕤
 
 [![Aravinth's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aravinth1525&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
 
