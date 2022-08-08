@@ -33,5 +33,5 @@
 
 # 🐍 𝕊𝕟𝕒𝕜𝕖 ℂ𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟 𝔾𝕣𝕒𝕡𝕙
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Aravinth1525/Aravinth1525/blob/output/github-contribution-grid-snake.gif)
 
