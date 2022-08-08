@@ -1,8 +1,6 @@
-## Hello All 👋 I'm Aravinth !
+## Hello World 👋 I'm Aravinth !
 
-## 🎓 I'm a CSE Student at Vellore Institute of Technology.
-
-- 🌱 I’m currently working on Web Development.
+## 🎓 Budding Computer Science Engineer from VIT, Vellore
 
 ## Connect with me
 
