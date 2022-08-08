@@ -47,3 +47,5 @@
 
 <br/>
 <br/>
+
+![Aravinth's Github Stats](https://github-readme-stats.vercel.app/api?username=Aravinth1525&custom_title=Aravinth%27s%20GitHub%20Stats%20&show_icons=true&theme=ayu-mirage)
