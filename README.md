@@ -33,7 +33,7 @@
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-# 🐍 𝕊𝕟𝕒𝕜𝕖 ℂ𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟 𝔾𝕣𝕒𝕡𝕙
+# ℂ𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟 𝔾𝕣𝕒𝕡𝕙
 
 ![snake gif](https://github.com/Aravinth1525/Aravinth1525/blob/output/github-contribution-grid-snake.gif)
 
