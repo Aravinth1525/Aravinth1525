@@ -7,7 +7,7 @@
 <p align="left">
 
 <p align="left">
-<a href="https://linkedin.com/in/aravinth-r-356a12194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aravinth-r-356a12194" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aravinth-r-356a12194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aravinth-r-356a12194" height="30" width="40" /></a><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
 <a href="https://instagram.com/aravinth.jpg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aravinth.jpg" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aravinth_1525" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aravinth_1525" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/aravinth272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aravinth272" height="30" width="40" /></a>
