@@ -37,3 +37,5 @@
 
 ![snake gif](https://github.com/Aravinth1525/Aravinth1525/blob/output/github-contribution-grid-snake.gif)
 
+![](https://komarev.com/ghpvc/?username=Aravinth1525&color=green)
+
