@@ -33,7 +33,7 @@
 
 # 𝕃𝕖𝕖𝕥𝕔𝕠𝕕𝕖 𝕊𝕥𝕒𝕥𝕤 💻
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Aravinth1525)
 
 # 𝕃𝕒𝕟𝕘𝕒𝕦𝕘𝕖𝕤 𝕊𝕥𝕒𝕥𝕤
 
