@@ -25,7 +25,7 @@
 
 [![Aravinth's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aravinth1525&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aravinth1525&theme=dracula)](https://github.com/Aravinth1525/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aravinth1525&theme=merko)](https://github.com/Aravinth1525/github-readme-activity-graph)
 
 # 𝕃𝕒𝕟𝕘𝕒𝕦𝕘𝕖𝕤 𝕊𝕥𝕒𝕥𝕤
 
