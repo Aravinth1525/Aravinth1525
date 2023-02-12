@@ -32,7 +32,7 @@
 
 # 𝔾𝕚𝕥ℍ𝕦𝕓 ℂ𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟𝕤
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aravinth1525&theme=windows-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aravinth1525&theme=black-ice)](https://git.io/streak-stats)
 
 [![Aravinth's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aravinth1525&theme=react-dark)
 
