@@ -34,7 +34,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Aravinth1525&theme=github-dark&border_radius=5)](https://git.io/streak-stats)
 
-[![Aravinth's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aravinth1525&theme=github-compact)
+[![Aravinth's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aravinth1525&theme=react-dark)
 
 # 𝕃𝕖𝕖𝕥𝕔𝕠𝕕𝕖 𝕊𝕥𝕒𝕥𝕤 💻
 
