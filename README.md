@@ -22,7 +22,11 @@
 
 # 🏆 𝔾𝕚𝕥𝕙𝕦𝕓 𝕋𝕣𝕠𝕡𝕙𝕚𝕖𝕤
 
+<p align="center">
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=Aravinth1525&theme=onedark)
+  
+  </p>
 
 # 📈 𝔾𝕚𝕥𝕙𝕦𝕓 𝕊𝕥𝕒𝕥𝕤
 
