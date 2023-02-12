@@ -1,10 +1,10 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,There!+👋;_This+is+Aravinth....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,There!+👋;This+is+Aravinth....;Nice+to+meet+you!&center=true&size=50">
   </a>
 </h1>
 
-🎓 I have moderate Technical and Programming skills and an academic background in Computer Science and Engineering.
+🎓 I am a dedicated full-stack developer with a passion for technology and moderate programming knowledge. With a focus on delivering clean, efficient code, I am eager to continue my professional growth in the field.
 
 # ℂ𝕠𝕟𝕟𝕖𝕔𝕥 𝕨𝕚𝕥𝕙 𝕞𝕖
 
