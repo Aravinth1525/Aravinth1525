@@ -19,7 +19,7 @@
 
 # 🏆 𝔾𝕚𝕥𝕙𝕦𝕓 𝕋𝕣𝕠𝕡𝕙𝕚𝕖𝕤
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aravinth1525&theme=onedark)]
+![trophy](https://github-profile-trophy.vercel.app/?username=Aravinth1525&theme=onedark)]
 
 # 📈 𝔾𝕚𝕥𝕙𝕦𝕓 𝕊𝕥𝕒𝕥𝕤
 
