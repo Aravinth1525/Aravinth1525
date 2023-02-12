@@ -1,4 +1,8 @@
-# ℍ𝕖𝕝𝕝𝕠 𝕎𝕠𝕣𝕝𝕕 👋 I'm Aravinth !
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,There!+👋;_This+is+Aravinth....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 🎓 I have moderate Technical and Programming skills and an academic background in Computer Science and Engineering.
 
