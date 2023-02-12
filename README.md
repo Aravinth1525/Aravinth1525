@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Handlee&weight=4000&size=30&pause=1000&width=435&lines=Hello+There+!++%F0%9F%91%8B++;This+is+Aravinth;Nice+to+meet+you+!)](https://git.io/typing-svg)
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handlee&weight=4000&size=30&pause=1000&width=435&lines=Hello+There+!++%F0%9F%91%8B++;This+is+Aravinth;Nice+to+meet+you+!" alt="Typing SVG" /></a>
   </h1>
 
 🎓 I am a dedicated full-stack developer with a passion for technology and moderate programming knowledge. With a focus on delivering clean, efficient code, I am eager to continue my professional growth in the field.
