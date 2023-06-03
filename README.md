@@ -33,7 +33,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Aravinth1525&theme=black-ice)](https://git.io/streak-stats)
 
-[![Aravinth's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aravinth1525&theme=react-dark)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aravinth1525&bg_color=000000&color=96d35f&line=96d35f&point=96d35f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # 𝕃𝕖𝕖𝕥𝕔𝕠𝕕𝕖 𝕊𝕥𝕒𝕥𝕤 💻
 
