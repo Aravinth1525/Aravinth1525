@@ -13,7 +13,7 @@
     <a href="https://www.linkedin.com/in/aravinth-r-356a12194/" title="LinkedIn Profile"><img width="22" src="linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://leetcode.com/Aravinth1525/" title="LeetCode Profile"><img width="22" src="Portfolio.png"> LeetCode</a></code>
   
-  <code><a href="https://aravinth1525.github.io" title="Portfolio"><img width="22" src="https://camo.githubusercontent.com/97d1828fe16ccca3417229fc085cfc96062bd74c8787f80131ddc9462ce4ed51/68747470733a2f2f736f6669616e6568616d6c616f75692e6769746875622e696f2f6a756e6b2f6c6f636b646f6f722f6c6f676f732f6c6f676f323035783235302e676966?raw=true"> Portfolio</a></code>
+  <code><a href="https://aravinth1525.github.io" title="Portfolio"><img width="22" src="Portfolio.png"> Portfolio</a></code>
 </h5>
 
 # 𝕊𝕜𝕚𝕝𝕝𝕤
